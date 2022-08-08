@@ -1,0 +1,233 @@
+[
+    {
+        "id": 1,
+        "cat": "teclados",
+        "nombre": "Teclado Primus T200",
+        "marca": "Primus",
+        "modelo": "T200",
+        "precio": 6600,
+        "color": "Negro",
+        "Retroiluminacion": "RGB",
+        "img": "../img/Teclado Primus T200.jpg"
+    },
+    {
+        "id": 2,
+        "cat": "teclados",
+        "nombre": "Teclado HyperX Alloy Origins",
+        "marca": "HyperX",
+        "modelo": "Alloy Origins",
+        "precio": 14200,
+        "color": "Negro",
+        "Retroiluminacion": "RGB",
+        "img": "../img/Teclado HyperX Alloy Origins.jpg"
+    },
+    {
+        "id": 3,
+        "cat": "teclados",
+        "nombre": "Teclado Redragon Kumara K552",
+        "marca": "Redragon",
+        "modelo": "Kumara K552",
+        "precio": 8600,
+        "color": "Negro",
+        "Retroiluminacion": "RGB",
+        "img": "../img/tecladored.jpg"
+    },
+    {
+        "id": 4,
+        "cat": "teclados",
+        "nombre": "Teclado Noganet Ganon XS",
+        "marca": "Noganet",
+        "modelo": "Ganon XS",
+        "precio": 3500,
+        "color": "Negro",
+        "Retroiluminacion": "RGB",
+        "img": "../img/Teclado Noganet Ganon XS.jpg"
+    },
+    {
+        "id": 5,
+        "cat": "teclados",
+        "nombre": "Teclado Hyperx Alloy Origins",
+        "marca": "Hyperx",
+        "modelo": "Alloy Origins",
+        "precio": 15500,
+        "color": "Rosa",
+        "Retroiluminacion": "RGB",
+        "img": "../img/Teclado Hyperx Alloy Origins.jpg"
+    },
+    {
+        "id": 6,
+        "cat": "teclados",
+        "nombre": "Teclado Redragon Shiva K512",
+        "marca": "Redragon",
+        "modelo": "Shiva K512",
+        "precio": 5800,
+        "color": "Negro",
+        "Retroiluminacion": "RGB",
+        "img": "../img/TecladoRedragonShivaK512.jpg"
+    },
+    {
+        "id": 7,
+        "cat": "teclados",
+        "nombre": "Teclado T-DaggeArena TGK321",
+        "marca": "T-DaggeArena ",
+        "modelo": "TGK321",
+        "precio": 4300,
+        "color": "Negro",
+        "Retroiluminacion": "RGB",
+        "img": "../img/TecladoT-DaggeArenaT-TGK321.jpg"
+    },
+    {
+        "id": 8,
+        "cat": "auriculares",
+        "nombre": "HyperX Cloud Stinger Core Wireless",
+        "marca": "HyperX",
+        "modelo": "Stinger Core Wireless + 7.1",
+        "precio": "15000",
+        "color": "Negro",
+        "Retroiluminacion": "No",
+        "img": "../img/AuricularesHyperXCloudStingerCoreWireless.jpg"
+    },
+    {
+        "id": 9,
+        "cat": "auriculares",
+        "nombre": "Auriculares gamer HyperX Cloud Alpha",
+        "marca": "HyperX",
+        "modelo": "Cloud Alpha",
+        "precio": 29900,
+        "color": "Negro",
+        "Retroiluminacion": "No",
+        "img": "../img/HyperX Alpha.jpg"
+    },
+    {
+        "id": 10,
+        "cat": "auriculares",
+        "nombre": "Auriculares gamer Redragon Zeus X",
+        "marca": " Redragon",
+        "modelo": "Zeus X",
+        "precio": 13000,
+        "color": "Negro",
+        "Retroiluminacion": "RGB",
+        "img": "../img/Redragon Zeus X.jpg"
+    },
+    {
+        "id": 11,
+        "cat": "auriculares",
+        "nombre": "Auriculares Redragon Chroma",
+        "marca": "Redragon",
+        "modelo": "Chroma Lamia 2 lunar white",
+        "precio": 10500 ,
+        "color": "Blanco",
+        "Retroiluminacion": "RGB",
+        "img": "../img/AuricularesgamerRedragonChromaLamia2lunar.jpg"
+    },
+    {
+        "id": 12,
+        "cat": "auriculares",
+        "nombre": "Auriculare HyperX Cloud Stinger Core",
+        "marca": "HyperX",
+        "modelo": "Cloud Stinger Core",
+        "precio": 7600,
+        "color": "Negro",
+        "Retroiluminacion": "No",
+        "img": "../img/Auriculares gamer HyperX Cloud Stinger Core negro.jpg"
+    },
+    {
+        "id": 13,
+        "cat": "auriculares",
+        "nombre": "Auriculares Corsair VOID Elite Wireless",
+        "marca": "Corsair",
+        "modelo": "VOID Elite Wireless",
+        "precio": 50800,
+        "color": "Negro",
+        "Retroiluminacion": "RGB",
+        "img": "../img/auriculares gamer inalámbricos Corsair VOID Elite Wireless carbón con luz rgb LED.jpg"
+    },
+    {
+        "id": 14,
+        "cat": "auriculares",
+        "nombre": "auriculares Razer Blackshark V2 X",
+        "marca": "Razer",
+        "modelo": "Blackshark V2 X",
+        "precio": 14300,
+        "color": "Negro",
+        "Retroiluminacion": "No",
+        "img": "../img/auriculares gamer Razer Blackshark V2 X classic black.jpg"
+    },
+    {
+        "id": 15,
+        "cat": "mouse",
+        "nombre": "Mouse Logitech Pro Series Pro",
+        "marca": "Logitech",
+        "modelo": "G Pro Hero",
+        "precio": 5800,
+        "color": "Negro",
+        "Retroiluminacion": "RGB",
+        "img": "../img/Logitech Pro Series Pro.jpg"
+    },
+    {
+        "id": 16,
+        "cat": "mouse",
+        "nombre": "Mouse Razer Vipe",
+        "marca": "Razer",
+        "modelo": "Viper",
+        "precio": 11500,
+        "color": "Negro",
+        "Retroiluminacion": "RGB",
+        "img": "../img/Razer Viper.jpg"
+    },
+    {
+        "id": 17,
+        "cat": "mouse",
+        "nombre": "Redragon Storm Elite",
+        "marca": "Redragon",
+        "modelo": "Storm Elite",
+        "precio": 5100,
+        "color": "Negro",
+        "Retroiluminacion": "RGB",
+        "img": "../img/Redragon Storm Elite.jpg"
+    },
+    {
+        "id": 18,
+        "cat": "mouse",
+        "nombre": "Mouse HyperX Pulsefire FPS Pro",
+        "marca": "HyperX",
+        "modelo": "Pulsefire FPS Pro",
+        "precio": 7500,
+        "color": "Negro",
+        "Retroiluminacion": "RGB",
+        "img": "../img/mouse de juego HyperX Pulsefire FPS Pro negro.jpg"
+    },
+    {
+        "id": 19,
+        "cat": "mouse",
+        "nombre": "Mouse inalámbrico Logitech G Series Lightspeed G305",
+        "marca": "Logitech",
+        "modelo": "G Series Lightspeed G305",
+        "precio": 6600,
+        "color": "Azul",
+        "Retroiluminacion": "RGB",
+        "img": "../img/Mouse de juego inalámbrico Logitech G Series Lightspeed G305 blue.jpg"
+    },
+    {
+        "id": 20,
+        "cat": "mouse",
+        "nombre": "Mouse HyperX Pulsefire Core",
+        "marca": "HyperX",
+        "modelo": "Pulsefire Core",
+        "precio": 3400,
+        "color": "Negro",
+        "Retroiluminacion": "RGB",
+        "img": "../img/Mouse de juego HyperX Pulsefire Core negro.jpg"
+    },
+    {
+        "id": 21,
+        "cat": "mouse",
+        "nombre": "Mouse Logitech G Series Lightspeed G603",
+        "marca": "Logitech",
+        "modelo": "G Series Lightspeed G603",
+        "precio": 7600,
+        "color": "Negro",
+        "Retroiluminacion": "No",
+        "img": "../img/Mouse de juego inalámbrico Logitech G Series Lightspeed G603 negro.jpg"
+    }
+]

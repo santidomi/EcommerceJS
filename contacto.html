@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <script src="js/popper.min.js"></script>
+    <link rel="stylesheet" href="https://www.markuptag.com/bootstrap/5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <title>TecnoBairesShop</title>
+
+</head>
+
+<body class="bodycontacto">
+
+    <div>
+    <h1 class="contactit">Contáctenos</h1>
+
+    <h3 class="contactit">Respuesta en menos de 24 hs</h3>
+</div>
+    <form  id="form" class="formcont">
+        <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Nombre</label>
+            <input type="text" class="form-control" placeholder="Nombre" name="name" required>
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Apellido</label>
+            <input type="text" class="form-control" placeholder="Apellido" name="last" required>
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Teléfono</label>
+            <input type="text" class="form-control" placeholder="Teléfono" name="phone" required>
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Correo Electronico</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                placeholder="Email" name="email" required>
+            <div id="emailHelp" class="form-text">Nunca compartiremos tu correo electrónico con nadie más.</div>
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Mensaje</label>
+            <textarea type="text" class="form-control" placeholder="Mensaje" name="message" required></textarea>
+        </div>
+
+        <input type="submit" class="btn btn-success" id="button" value="Enviar Mensaje" required>
+    </form>
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+
+    <script type="text/javascript">
+        emailjs.init('COHWXjSte4JcA1J3B')
+    </script>
+    
+    <script src="js/contacto.js"></script>
+</body>
+
+
+</html>
