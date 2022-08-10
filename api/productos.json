@@ -50,7 +50,7 @@
         "marca": "Hyperx",
         "modelo": "Alloy Origins",
         "precio": 15500,
-        "color": "Rosa",
+        "color": "Negro",
         "Retroiluminacion": "RGB",
         "img": "../img/Teclado Hyperx Alloy Origins.jpg"
     },
@@ -72,7 +72,7 @@
         "marca": "T-DaggeArena ",
         "modelo": "TGK321",
         "precio": 4300,
-        "color": "Negro",
+        "color": "Blanco",
         "Retroiluminacion": "RGB",
         "img": "../img/TecladoT-DaggeArenaT-TGK321.jpg"
     },
